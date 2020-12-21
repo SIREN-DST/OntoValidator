@@ -1,0 +1,4 @@
+Pizza	Peri-Peri	hyponym
+Tandoori Pizza	Indian Pizza	hypernym
+Domino's Pizza	Pizza	concept
+Pizza	Marinara	isToppingOf
